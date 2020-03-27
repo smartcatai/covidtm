@@ -14,6 +14,6 @@ CovidTM is a public multilingual corpus of texts related to the COVID-19 outbrea
 
 1. Contact the rightholder and [ask](https://www.smartcat.ai/blog/covidtm/#inquiry) them if they are okay with your sharing the source & translated content.
 2. [Download](https://gyazo.com/a2b69dbb117ffbbcc86d7b08c8ad2ad4) your project’s TMX.
-3. Submit the TMX [here](https://bit.ly/covidtm-submit).
+3. Submit the TMX via [this form](https://bit.ly/covidtm-submit).
 
 For more information and an inspirational speech, read [this](https://www.smartcat.ai/blog/covidtm).
