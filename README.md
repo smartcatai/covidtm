@@ -2,7 +2,7 @@
 
 ## What is this?
 
-CovidTM is a public multilingual corpus of texts related to the COVID-19 outbreak: scientific articles, international updates, corporate policies, and so on.
+CovidTM is a public multilingual corpus of texts related to the COVID-19 outbreak: scientific articles, international updates, corporate policies, and so on. ([What for?](https://www.smartcat.ai/blog/covidtm/))
 
 ## How do I use it?
 
