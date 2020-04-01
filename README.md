@@ -1,5 +1,7 @@
 # CovidTM — Translation memory for all COVID-19-related content
 
+### _No TMX is available as of Apr 1, 2020. Please give us a few days to accumulate the initial TMXes from users and check back next week!_
+
 ## What is this?
 
 CovidTM is a public multilingual corpus of texts related to the COVID-19 outbreak: scientific articles, international updates, corporate policies, and so on. ([What for?](https://www.smartcat.ai/blog/covidtm/))
