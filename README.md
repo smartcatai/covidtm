@@ -1,16 +1,14 @@
 # CovidTM — Translation memory for all COVID-19-related content
 
-### _No TMX is available as of Apr 1, 2020. Please give us a few days to accumulate the initial TMXes from users and check back next week!_
-
 ## What is this?
 
-CovidTM is a public multilingual corpus of texts related to the COVID-19 outbreak: scientific articles, international updates, corporate policies, and so on. ([What for?](https://www.smartcat.ai/blog/covidtm/))
+CovidTM is a public multilingual corpus of translation memories (TMX files) related to the COVID-19 outbreak: scientific articles, international updates, corporate policies, and so on. ([What for?](https://www.smartcat.ai/blog/covidtm/))
 
 ## How do I use it?
 
-1. Clone the repo on your hard drive or just download the TMX file manually.
-2. Upload the TMX to your CAT tool (e.g. on [Smartcat](https://gyazo.com/365d93fc7d9804dd96832e52dead0cae)).
-3. Use [concordance search](https://help.smartcat.ai/hc/en-us/articles/115002043791-Concordance-search) to translate faster and more consistently.
+1. Clone the repo on your hard drive or just download the required TMX file(s) for your language(s) manually.
+2. Upload the TMX to your CAT tool. On Smartcat: **Linguistic Assets** > **Translation memories** > **Create TM** (or select > Update TM to append an existing TM).
+3. Connect the TM to your project and use [concordance search](https://help.smartcat.ai/hc/en-us/articles/115002043791-Concordance-search) to translate faster and more consistently.
 
 ## How do I participate?
 
