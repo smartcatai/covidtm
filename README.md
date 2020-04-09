@@ -9,8 +9,12 @@ CovidTM is a public multilingual corpus of translation memories (TMX files) rela
 ## How do I use it?
 
 1. Clone the repo on your hard drive or just download the required TMX file(s) for your language(s) manually.
-2. [Upload](https://gyazo.com/94bca1f9b2d19044c8f89efc4320345d) the TMX to your CAT tool. (Note: Processing large TMs may take a few minutes. In Smartcat, you will be able to continue working and even using new entries while more are being added.)
+2. [Upload](https://gyazo.com/94bca1f9b2d19044c8f89efc4320345d) the TMX to your CAT tool. 
 3. [Connect](https://gyazo.com/0568a3dd57ffc2a77c40f110d9e57c50) the TM to your project and use [concordance search](https://gyazo.com/5e13fd014b57948565e4f362717e2b54) to translate faster and more consistently.
+
+Notes:
+1. Processing large TMs may take a few minutes. A good CAT tool will allow you to continue working and using new entries as they are being added. 
+2. Some of the entries currently seem to be erroneous. Most CAT tools should be able to weed them out while importing the other ones.
 
 ## How do I participate?
 
