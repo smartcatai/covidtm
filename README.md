@@ -1,4 +1,4 @@
-# CovidTM — Translation memory for all COVID-19-related content
+# CovidTM — Translation memories for all COVID-19-related content
 
 `Status as of Apr 8:` **`2,800,000 entries in 4 languages`**
 
